@@ -1,4 +1,10 @@
-
+body {
+    background-image: url(../img/Fondo3.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 200px;
+    font-family: 'Montserrat', sans-serif;
+}
 
 /* Generales */
 
