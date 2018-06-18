@@ -7,10 +7,39 @@ body {
 }
 
 /* Generales */
-
-
+.texto1 {
+    color: aliceblue;
+}
 
 /* Fin generales */
 
+.cabecera {
+    background-color: transparent;
+}
 
+.navegacion {
+    background-color: transparent;
+}
 
+.logo {
+    margin: 0.5rem;
+    margin-top: 2rem;
+}
+
+.iconos {
+    color: white;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.margen {
+    padding: 1rem;
+}
+
+.perfil {
+    width: 35%;
+}
+
+.perfil1 {
+    padding: 2px;
+}
